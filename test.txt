@@ -1,2 +1,2 @@
-My first repo git-rebase-demo
+My first change in vim mode -rebase-demo
 
