@@ -17,7 +17,7 @@ altSpellings: [
 ],
 subregion: "Eastern Europe",
 region: "Europe",
-population: 700001,
+population: 700002,
 latlng: [
 43,
 25
@@ -79,4 +79,4 @@ name: "European Union"
 cioc: "BUL",
 independent: true
 }
-]
+
