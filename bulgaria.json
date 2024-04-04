@@ -1,83 +1,80 @@
-me: "Bulgaria",
+[
+{
+name: "Bulgaria",
 topLevelDomain: [
-	".bg"
+".bg"
 ],
 alpha2Code: "BG",
 alpha3Code: "BGR",
 callingCodes: [
-	"359"
+"359"
 ],
 capital: "Sofia",
 altSpellings: [
-	"BG",
-	"Republic of Bulgaria",
-	"Република България"
+"BG",
+"Republic of Bulgaria",
+"Република България"
 ],
 subregion: "Eastern Europe",
 region: "Europe",
-population: 6937288,
+population: 6927288,
 latlng: [
-	43,
-	25
+43,
+25
 ],
 demonym: "Bulgarian",
-area: 5000000,
+area: 110879,
 gini: 41.3,
 timezones: [
-	"UTC+02:00"
+"UTC+02:00"
 ],
 borders: [
-	"GRC",
-	"MKD",
-	"ROU",
-	"SRB",
-	"TUR"
+"GRC",
+"MKD",
+"ROU",
+"SRB",
+"TUR"
 ],
 nativeName: "България",
 numericCode: "100",
 flags: {
-	svg: "https://flagcdn.com/bg.svg",
-	png: "https://flagcdn.com/w320/bg.png"
+svg: "https://flagcdn.com/bg.svg",
+png: "https://flagcdn.com/w320/bg.png"
 },
 currencies: [
-	{
-		code: "BGN",
-		name: "Bulgarian lev",
-		symbol: "лв"
-	}
-	{
-		code: "EUR",
-		name: "EURO",
-		symbol: "€"
-	}
+{
+code: "BGN",
+name: "Bulgarian lev",
+symbol: "лв"
+}
 ],
 languages: [
-	{
-		iso639_1: "bg",
-		iso639_2: "bul",
-		name: "Bulgarian",
-		nativeName: "български език"
-	}
+{
+iso639_1: "bg",
+iso639_2: "bul",
+name: "Bulgarian",
+nativeName: "български език"
+}
 ],
 translations: {
-	br: "Bulgaria",
-	pt: "Bulgária",
-	nl: "Bulgarije",
-	hr: "Bugarska",
-	fa: "بلغارستان",
-	de: "Bulgarien",
-	es: "Bulgaria",
-	fr: "Bulgarie",
-	ja: "ブルガリア",
-	it: "Bulgaria",
-	hu: "Bulgária"
+br: "Bulgaria",
+pt: "Bulgária",
+nl: "Bulgarije",
+hr: "Bugarska",
+fa: "بلغارستان",
+de: "Bulgarien",
+es: "Bulgaria",
+fr: "Bulgarie",
+ja: "ブルガリア",
+it: "Bulgaria",
+hu: "Bulgária"
 },
 flag: "https://flagcdn.com/bg.svg",
 regionalBlocs: [
-	{
-		acronym: "EU",
-		name: "European Union"
-	}
+{
+acronym: "EU",
+name: "European Union"
+}
 ],
 cioc: "BUL",
 independent: true
