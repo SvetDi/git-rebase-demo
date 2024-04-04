@@ -48,7 +48,7 @@ currencies: [
 	{
 		code: "EUR",
 		name: "EURO",
-		symbol: "$"
+		symbol: "€"
 	}
 ],
 languages: [
